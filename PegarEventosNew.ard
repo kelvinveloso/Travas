@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AddOnRegData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" SlientInstallation="No" SlientUpgrade="No" Partnernmsp="EvokeMail2.0.0.37" SchemaVersion="3.0" Type="" MultipleVersion="false" OnDemand="" OnPremise="" ExtName="EvokeMail2.0.0.37" ExtVersion="2.0.0.37" Contdata="kelvin.veloso@gmail.com" Partner="SoftwareHouse2.0.0.37" DBType="HANA" ClientType="W">
+  <Validity>
+    <SBOCompatibility>
+      <Version From="" To="" />
+    </SBOCompatibility>
+  </Validity>
+  <Configuration>
+    <Repository>
+      <Properties />
+    </Repository>
+    <Deployment>
+      <Properties />
+    </Deployment>
+    <Assignment>
+      <Properties />
+    </Assignment>
+  </Configuration>
+  <Addons>
+    <Addon Name="" Group="" ForceFlag="" Visible="" AutoAssign="" SelfUpgrd="">
+      <x86 AddonExe="" AddonSig="">
+        <Installation>
+          <Files />
+        </Installation>
+        <Uninstallation>
+          <Files />
+        </Uninstallation>
+      </x86>
+      <x64 AddonExe="C:\SC\PegarEventosNew\PegarEventosNew\bin\x64\Debug\PegarEventosNew.exe" AddonSig="">
+        <Installation>
+          <Files>
+            <File FileName="Newtonsoft.Json.dll">
+              <Actions />
+            </File>
+            <File FileName="Newtonsoft.Json.xml">
+              <Actions />
+            </File>
+            <File FileName="PegarEventosNew.b1s">
+              <Actions />
+            </File>
+            <File FileName="PegarEventosNew.exe">
+              <Actions />
+            </File>
+            <File FileName="PegarEventosNew.exe.config">
+              <Actions />
+            </File>
+            <File FileName="PegarEventosNew.pdb">
+              <Actions />
+            </File>
+            <File FileName="StarkbankEcdsa.dll">
+              <Actions />
+            </File>
+          </Files>
+        </Installation>
+        <Uninstallation>
+          <Files>
+            <File FileName="Newtonsoft.Json.dll">
+              <Actions />
+            </File>
+            <File FileName="Newtonsoft.Json.xml">
+              <Actions />
+            </File>
+            <File FileName="PegarEventosNew.b1s">
+              <Actions />
+            </File>
+            <File FileName="PegarEventosNew.exe">
+              <Actions />
+            </File>
+            <File FileName="PegarEventosNew.exe.config">
+              <Actions />
+            </File>
+            <File FileName="PegarEventosNew.pdb">
+              <Actions />
+            </File>
+            <File FileName="StarkbankEcdsa.dll">
+              <Actions />
+            </File>
+          </Files>
+        </Uninstallation>
+      </x64>
+    </Addon>
+  </Addons>
+  <XApps>
+    <XApp Name="" Path="" FileName="" />
+  </XApps>
+  <UDQs>
+    <UDQ udqname="">
+      <Hana FileName="" />
+    </UDQ>
+  </UDQs>
+</AddOnRegData>

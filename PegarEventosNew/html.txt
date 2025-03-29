@@ -1,0 +1,20 @@
+<table border="1">
+    <tr>
+        <td>CodPN</td>
+        <td>NomePN</td>
+        <td>Documento</td>
+		 <td>Total</td>
+		 <td>Obs</td>
+    </tr>
+    <tr>
+        <td>CodPN</td>
+        <td>NomePN</td>
+        <td>Documento</td>
+		 <td>Total</td>
+		 <td>Obs</td>
+    </tr>
+</table>
+
+
+@"<html> <body> <p>Dear Ms. Susan,</p> <table border="1">    <tr>         <td>CodPN</td>        <td>NomePN</td>        <td>Documento</td> <td>Total</td>		 <td>Obs</td>    </tr>    <tr>        <td>CodPN</td>        <td>NomePN</td>        <td>Documento</td>		 <td>Total</td>		 <td>Obs</td>    </tr> </table>   <div> <img src = "https://pin.it/4KiHxar"> </div>   </body> </html>" ;
+
